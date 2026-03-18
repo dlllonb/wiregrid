@@ -11,3 +11,5 @@ analysis/data/
 
 .DS_Store
 
+.venv/
+start_jupyter.sh
