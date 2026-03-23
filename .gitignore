@@ -13,3 +13,4 @@ analysis/data/
 
 .venv/
 start_jupyter.sh
+grasp_files/
